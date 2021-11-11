@@ -1,0 +1,2 @@
+# QitzSwaggerUI
+SwaggerUIの読み込むYamlをurl経由で指定できるようにして取り込んだ感じのツールです
