@@ -37,8 +37,6 @@ yaml_url<br>
 https://qitzpub.github.io/QitzSwaggerUI/?yaml_url=https%3A%2F%2Fraw.githubusercontent.com%2FQitzPub%2Fkarute%2Fmain%2Fdocs%2Fswagger.yaml%3Ftoken%3DAKS7RHG3Y2VGGZQTH7GCVNDBSYBA6
 <br>アクセスすると・・・・！？
 <br>
-![画像](https://i.gyazo.com/32a6bfea199e0171e606e3d3c4ee9b9b.png"がぞーう")
-<br>
 対象Swaggerを読み込んだSwaggerUIが表示されました！！！やったーーー！！<br>
 <br>
 
